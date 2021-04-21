@@ -1,7 +1,7 @@
-# idea_finder
+# Idea Finder
 
-A Flutter application for collaborating on ideas
+A Flutter application for sharing and voting on ideas
 
 ## TODOs
 
-Integrate Firebase to persist and sync data bewtween all users 
+Integrate Firebase to persist and sync data between all users 
